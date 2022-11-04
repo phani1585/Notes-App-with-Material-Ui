@@ -1,0 +1,62 @@
+.notes-input-wrapper{
+    padding : 80px 40px 40px 40px;
+    width: 85%;
+}
+
+.notes-input-wrrper{
+    padding : 80px 40px 40px 40px;
+    width: 100%;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+}
+
+.text-field{
+    margin-bottom: 10px;
+}
+
+.add-btn-wrapper{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.add-btn{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.side-bar-wrapper{
+    background-color: #EEEEEE;
+    width: 15%;
+    padding : 80px 0px 0px 0px;
+    overflow: clip  ;
+}
+
+.note-container{
+    min-width: 100vw;
+    display: flex;
+}
+
+.saveBtnWrapper{
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.note-div{
+    width: 100%;
+    background-color: #cfcfcf;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.note-div:hover{
+    background-color: #3f51b5;
+    color: #fff;
+}
